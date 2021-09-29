@@ -2,4 +2,4 @@ This project is a very basic prediction model based on bar graphs to predict whe
 
 I use two platform to complete the project: Automation 360 and Python. I used Automation 360 to do webscraping of the data from the website above and store it in a csv file. In terms of the webscraping, I 
 
-With Python, I used Pandas, 
+With Python, I used Pandas DataFrame and Matplotlib inorder to read data from csv file and then create a bar graph split in 6 groups based on popularity. The first group is the most popular and the 6th one is the least popular. 
